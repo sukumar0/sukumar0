@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sukumar0
-- 👀 I’m interested in Doing job on Data Science and i'm a Beginner
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science related Projects 
+- 👋 Hi, I’m @sukumar
 - 📫 How to reach me sukumarb679@gmail.com
 
 <!---
