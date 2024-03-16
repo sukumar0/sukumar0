@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sukumar
+- 👋 Hi, I’m sukum@r
 - 📫 How to reach me sukumarb679@gmail.com
 
 <!---
